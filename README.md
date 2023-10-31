@@ -2,7 +2,7 @@
 Hypersonic Facility Flow Modelling Code
 
 ### Notes
-XFLOW utilises the [gdtk](https://gdtk.uqcloud.net/) and its [Eilmer](https://gdtk.uqcloud.net/docs/eilmer/about/) CFD capability to model hypersonic ground test facilitities - predictions nozzle exit composition and temperatures. The code was built specifically to discern non-equilibrium thermochemical facility exit conditions.
+XFLOW utilises the [gdtk](https://gdtk.uqcloud.net/) and its [Eilmer](https://gdtk.uqcloud.net/docs/eilmer/about/) CFD capability to model hypersonic ground test facilitities - predicting of nozzle exit composition and temperatures as well as driven tube shock speeds. The code was built specifically to discern non-equilibrium thermochemical facility exit conditions.
 
 ### Setup
 1. Clone the repository.
